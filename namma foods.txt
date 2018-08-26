@@ -1,0 +1,1149 @@
+{
+  "labelAnnotations": [
+    {
+      "mid": "/m/02q08p0",
+      "description": "dish",
+      "score": 0.9562459,
+      "topicality": 0.9562459
+    },
+    {
+      "mid": "/m/02wbm",
+      "description": "food",
+      "score": 0.9486309,
+      "topicality": 0.9486309
+    },
+    {
+      "mid": "/m/01h5q0",
+      "description": "indian cuisine",
+      "score": 0.88862056,
+      "topicality": 0.88862056
+    },
+    {
+      "mid": "/m/0krfg",
+      "description": "meal",
+      "score": 0.8803,
+      "topicality": 0.8803
+    },
+    {
+      "mid": "/m/01ykh",
+      "description": "cuisine",
+      "score": 0.825537,
+      "topicality": 0.825537
+    },
+    {
+      "mid": "/m/02p3lk",
+      "description": "punjabi cuisine",
+      "score": 0.8186477,
+      "topicality": 0.8186477
+    },
+    {
+      "mid": "/m/0hr1s_w",
+      "description": "curry",
+      "score": 0.7855787,
+      "topicality": 0.7855787
+    },
+    {
+      "mid": "/m/07x_t_",
+      "description": "south asian cuisine",
+      "score": 0.77855617,
+      "topicality": 0.77855617
+    },
+    {
+      "mid": "/m/08yzrn",
+      "description": "maharashtrian cuisine",
+      "score": 0.718632,
+      "topicality": 0.718632
+    },
+    {
+      "mid": "/m/027gjj",
+      "description": "pakistani cuisine",
+      "score": 0.6742428,
+      "topicality": 0.6742428
+    },
+    {
+      "mid": "/m/01r1z5",
+      "description": "asian food",
+      "score": 0.62128276,
+      "topicality": 0.62128276
+    },
+    {
+      "mid": "/m/0p57p",
+      "description": "recipe",
+      "score": 0.6053816,
+      "topicality": 0.6053816
+    },
+    {
+      "mid": "/m/07_lq",
+      "description": "vegetarian food",
+      "score": 0.5614832,
+      "topicality": 0.5614832
+    },
+    {
+      "mid": "/m/03m283",
+      "description": "pakora",
+      "score": 0.5601917,
+      "topicality": 0.5601917
+    },
+    {
+      "mid": "/m/03ly4k",
+      "description": "middle eastern food",
+      "score": 0.55518776,
+      "topicality": 0.55518776
+    }
+  ],
+  "safeSearchAnnotation": {
+    "adult": "VERY_UNLIKELY",
+    "spoof": "VERY_UNLIKELY",
+    "medical": "VERY_UNLIKELY",
+    "violence": "VERY_UNLIKELY",
+    "racy": "VERY_UNLIKELY"
+  },
+  "imagePropertiesAnnotation": {
+    "dominantColors": {
+      "colors": [
+        {
+          "color": {
+            "red": 232,
+            "green": 129,
+            "blue": 58
+          },
+          "score": 0.280574,
+          "pixelFraction": 0.023199446
+        },
+        {
+          "color": {
+            "red": 21,
+            "green": 7,
+            "blue": 4
+          },
+          "score": 0.014810419,
+          "pixelFraction": 0.078947365
+        },
+        {
+          "color": {
+            "red": 159,
+            "green": 105,
+            "blue": 58
+          },
+          "score": 0.0113746505,
+          "pixelFraction": 0.04547553
+        },
+        {
+          "color": {
+            "red": 78,
+            "green": 42,
+            "blue": 27
+          },
+          "score": 0.0042610248,
+          "pixelFraction": 0.03520314
+        },
+        {
+          "color": {
+            "red": 210,
+            "green": 197,
+            "blue": 163
+          },
+          "score": 0.0040561818,
+          "pixelFraction": 0.06648199
+        },
+        {
+          "color": {
+            "red": 98,
+            "green": 78,
+            "blue": 54
+          },
+          "score": 0.0036532131,
+          "pixelFraction": 0.021121884
+        },
+        {
+          "color": {
+            "red": 244,
+            "green": 231,
+            "blue": 104
+          },
+          "score": 0.0020558857,
+          "pixelFraction": 0.031394277
+        },
+        {
+          "color": {
+            "red": 235,
+            "green": 127,
+            "blue": 35
+          },
+          "score": 0.15486626,
+          "pixelFraction": 0.010734072
+        },
+        {
+          "color": {
+            "red": 195,
+            "green": 96,
+            "blue": 28
+          },
+          "score": 0.1388927,
+          "pixelFraction": 0.01858264
+        },
+        {
+          "color": {
+            "red": 213,
+            "green": 140,
+            "blue": 62
+          },
+          "score": 0.037668847,
+          "pixelFraction": 0.016043399
+        }
+      ]
+    }
+  },
+  "cropHintsAnnotation": {
+    "cropHints": [
+      {
+        "boundingPoly": {
+          "vertices": [
+            {
+              "x": 56
+            },
+            {
+              "x": 205
+            },
+            {
+              "x": 205,
+              "y": 182
+            },
+            {
+              "x": 56,
+              "y": 182
+            }
+          ]
+        },
+        "confidence": 0.79999995,
+        "importanceFraction": 0.71
+      },
+      {
+        "boundingPoly": {
+          "vertices": [
+            {
+              "x": 40
+            },
+            {
+              "x": 227
+            },
+            {
+              "x": 227,
+              "y": 182
+            },
+            {
+              "x": 40,
+              "y": 182
+            }
+          ]
+        },
+        "confidence": 0.79999995,
+        "importanceFraction": 0.82
+      },
+      {
+        "boundingPoly": {
+          "vertices": [
+            {
+              "x": 48
+            },
+            {
+              "x": 271
+            },
+            {
+              "x": 271,
+              "y": 182
+            },
+            {
+              "x": 48,
+              "y": 182
+            }
+          ]
+        },
+        "confidence": 0.79999995,
+        "importanceFraction": 0.91999996
+      }
+    ]
+  },
+  "webDetection": {
+    "webEntities": [
+      {
+        "entityId": "/m/01h5q0",
+        "score": 1.1019,
+        "description": "Indian cuisine"
+      },
+      {
+        "entityId": "/m/07_lq",
+        "score": 1.0932,
+        "description": "Vegetarian cuisine"
+      },
+      {
+        "entityId": "/m/0bkhy0",
+        "score": 0.65625,
+        "description": "Indian Chinese cuisine"
+      },
+      {
+        "entityId": "/m/01xw9",
+        "score": 0.6009,
+        "description": "Chinese cuisine"
+      },
+      {
+        "entityId": "/m/02wbm",
+        "score": 0.5965,
+        "description": "Food"
+      },
+      {
+        "entityId": "/m/07_jd",
+        "score": 0.5452,
+        "description": "Vegetarianism"
+      },
+      {
+        "entityId": "/m/02q08p0",
+        "score": 0.5351,
+        "description": "Dish"
+      },
+      {
+        "entityId": "/m/024gjb",
+        "score": 0.497,
+        "description": "Menu"
+      },
+      {
+        "entityId": "/m/01ykh",
+        "score": 0.4858,
+        "description": "Cuisine"
+      },
+      {
+        "entityId": "/g/1tq4r9h4",
+        "score": 0.4846,
+        "description": "Mehak Indian Cuisine"
+      },
+      {
+        "entityId": "/m/023kbx",
+        "score": 0.4576,
+        "description": "Tandoor"
+      },
+      {
+        "entityId": "/m/06p35",
+        "score": 0.444,
+        "description": "Spice"
+      },
+      {
+        "entityId": "/m/0hr1s_w",
+        "score": 0.4425,
+        "description": "Curry"
+      },
+      {
+        "entityId": "/m/06l8d",
+        "score": 0.4245,
+        "description": "Restaurant"
+      },
+      {
+        "entityId": "/m/01pn0r",
+        "score": 0.39,
+        "description": "Chef"
+      }
+    ],
+    "fullMatchingImages": [
+      {
+        "url": "http://img1.wsimg.com/isteam/stock/52fea22e3978bbd0ec2553942b31e486fa64ddbc23286f10993c0690bbd56b13"
+      },
+      {
+        "url": "https://static1.squarespace.com/static/5898b3165016e1eeef6a4a3e/t/5955408f6a496315c7f926fe/1498759321971/BT+Butter+Chicken%2Cshutterstock_97092413.jpg?format=2500w"
+      },
+      {
+        "url": "https://static1.squarespace.com/static/55f40b94e4b07856e005e131/56e5c2bec6fc082c757c1cb2/56e5c2be356fb0394324ed40/1457898181073/12080057_872352406147386_1996565331991462326_o.jpg?format=2500w"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/l1AszDN_ZGI/maxresdefault.jpg"
+      },
+      {
+        "url": "https://www.lebistroindien-yvelines.com/ressources/images/892cf2ce5f66.jpg"
+      },
+      {
+        "url": "http://aumtours.com/wp-content/uploads/2018/05/Indian-Food.jpg"
+      },
+      {
+        "url": "https://static1.squarespace.com/static/569c2cb40e4c1148e6b6bf60/t/577bcfefe3df28703b9f1ef9/1467731959264/?format=1500w"
+      },
+      {
+        "url": "https://s3.amazonaws.com/skinner-production/stories/featured_images/000/031/550/large/indian_food.jpg?1526653840"
+      },
+      {
+        "url": "http://www.delhiloungedublin.com/img/delhi-lounge-dublin-fb.jpg"
+      },
+      {
+        "url": "http://www.kashmirirestaurang.se/assets/img/7.jpg"
+      },
+      {
+        "url": "http://littleindiaresturant.com/application/uploads/slideshow/media-share-0-02-05-b4ac45ec7636f379b8b7befc47d948467384d10729551575adbf86a08611f166-0f4d6d03-05de-4046-a04b-395797bbe976.jpg"
+      },
+      {
+        "url": "https://www.eveningtelegraph.co.uk/wp-content/uploads/sites/11/2017/10/iStock-177043240.jpg"
+      },
+      {
+        "url": "https://s3-ap-southeast-2.amazonaws.com/content.communitynews.com.au/2017/03/24102308/iStock-177043240.jpg"
+      },
+      {
+        "url": "https://www.nacion.com/resizer/NLEm2ciITsRPkigKD7QiRKfGK6U=/1200x0/center/middle/filters:quality(100)/www.nacion.com/resizer/kvqUYVl-zWnDUHLR-aVw3SypfUI=/1200x0/center/middle/filters:quality(100)/arc-anglerfish-arc2-prod-gruponacion.s3.amazonaws.com/public/VDUVOP3M7JALBGZ6ATXO64PB4U.jpg"
+      },
+      {
+        "url": "https://www.nacion.com/resizer/kvqUYVl-zWnDUHLR-aVw3SypfUI=/1200x0/center/middle/filters:quality(100)/arc-anglerfish-arc2-prod-gruponacion.s3.amazonaws.com/public/VDUVOP3M7JALBGZ6ATXO64PB4U.jpg"
+      },
+      {
+        "url": "https://pbs.twimg.com/media/DkK7Z9XWsAEgHIM.jpg"
+      },
+      {
+        "url": "http://news.dining-out.co.za/wp-content/uploads/2016/10/Cover-Image-Best-Curry-Restaurants-in-Durban.jpg"
+      },
+      {
+        "url": "https://i0.wp.com/conversationsinthesunroom.com/wp-content/uploads/2018/04/Indian-Food-1.jpg?resize=1170%2C781&amp;ssl=1"
+      },
+      {
+        "url": "https://cdn.24.co.za/files/Cms/General/d/5516/9f27bfb00c8b455baced3376d0c86afb.jpg"
+      },
+      {
+        "url": "https://royalindiabe.files.wordpress.com/2018/03/img-20180311-wa0039.jpg?w=1024"
+      },
+      {
+        "url": "http://www.thatsmags.com/image/view/201802/istock_000019639558_medium.jpg"
+      },
+      {
+        "url": "https://castleofgoodhope.co.za/wp-content/uploads/2017/08/istock_000019639558_medium-1024x683.jpg"
+      },
+      {
+        "url": "https://www.reformetasante.com/wp-content/uploads/2018/06/img_1501-1024x683.jpg"
+      },
+      {
+        "url": "https://www.restaurant-lemermoz41.fr/ressources/images/403c4b98e53a.jpg"
+      },
+      {
+        "url": "https://www.restoaasman.fr/ressources/images/84727f458bfd.jpg"
+      },
+      {
+        "url": "http://www.indiangardenkirkwall.com/images/Special/MEAL%20FOR%204%20PERSON%202.jpg"
+      },
+      {
+        "url": "http://www.restaurant-taj.com/ressources/images/9c08a4403f35.jpg"
+      },
+      {
+        "url": "https://static1.squarespace.com/static/5779b73d414fb50acf43d657/t/597729675149bf1d9072461c/1500982034105/ac374-img.jpg"
+      },
+      {
+        "url": "https://lookaside.fbsbx.com/lookaside/crawler/media/?media_id=1549377078485890"
+      },
+      {
+        "url": "https://lookaside.fbsbx.com/lookaside/crawler/media/?media_id=1815884205310092"
+      },
+      {
+        "url": "https://lookaside.fbsbx.com/lookaside/crawler/media/?media_id=1192799307521207"
+      },
+      {
+        "url": "https://www.godine.co.uk/assets/restaurant/3055/Image/15138__elton-cuisine-image-2.jpg"
+      },
+      {
+        "url": "https://lookaside.fbsbx.com/lookaside/crawler/media/?media_id=239875699916488"
+      },
+      {
+        "url": "https://lookaside.fbsbx.com/lookaside/crawler/media/?media_id=422818901415893"
+      },
+      {
+        "url": "https://lookaside.fbsbx.com/lookaside/crawler/media/?media_id=138652683479762"
+      },
+      {
+        "url": "https://10619-2.s.cdn12.com/rests/original/803_500369655.jpg"
+      },
+      {
+        "url": "https://v2mk946udb541j5bz40dqrd1-wpengine.netdna-ssl.com/wp-content/uploads/2017/12/TIK_IndiaVacations_dinner_horz.jpg"
+      },
+      {
+        "url": "https://padharoresort.com/wp-content/uploads/2018/07/food.jpg"
+      },
+      {
+        "url": "https://www.surreyapp.com/Uploads/BusinessPhotos/thumbnail/d6196180.jpg"
+      },
+      {
+        "url": "http://masalaexpress.online/wp-content/uploads/2016/07/SLIDER-3-1.jpg"
+      },
+      {
+        "url": "https://bigapplecurry.files.wordpress.com/2012/11/istock_000019639558_medium.jpg?resize=820%2C547"
+      },
+      {
+        "url": "http://dinein.pk/Uploads/Gallery/usmania_b1.jpg"
+      },
+      {
+        "url": "https://i0.wp.com/aucklandscene.co.nz/wp-content/uploads/2009/08/Curry1.jpg?fit=800%2C534"
+      },
+      {
+        "url": "https://cdn-images-1.medium.com/max/1600/1*RIdG7Z2NUPZUZuv4nvZ5qQ.jpeg"
+      },
+      {
+        "url": "https://i0.wp.com/aucklandscene.co.nz/wp-content/uploads/2009/08/Curry1.jpg"
+      },
+      {
+        "url": "https://media1.agfg.com.au/images/listing/27984/gallery//19642708_1207622652717618_6840974572169444151_n.jpg"
+      },
+      {
+        "url": "https://media-cdn.tripadvisor.com/media/photo-o/07/23/a2/9e/chillis.jpg"
+      },
+      {
+        "url": "https://lookaside.fbsbx.com/lookaside/crawler/media/?media_id=175752729611973"
+      },
+      {
+        "url": "https://static.wowcher.co.uk/images/deal/209480/62812.jpg"
+      },
+      {
+        "url": "https://www.svilnapot.com/iimg/2632/750x/i.jpg"
+      }
+    ],
+    "partialMatchingImages": [
+      {
+        "url": "https://monopolybuysellrent.co.uk/wp-content/uploads/2017/12/iStock-177043240.jpg"
+      },
+      {
+        "url": "https://d.wpimg.pl/1028166417--121654922/curry-uczta.jpg"
+      },
+      {
+        "url": "https://s3-us-west-1.amazonaws.com/contentlab.studiod/getty/370e6ff7dc9b46b5aa556ed353deb49d"
+      },
+      {
+        "url": "https://www.flightnetwork.com/blog/wp-content/uploads/2014/09/177043240.jpg"
+      },
+      {
+        "url": "https://yolo.style/wp-content/uploads/2017/02/iStock-177043240.jpg"
+      },
+      {
+        "url": "http://photos.demandstudios.com/getty/article/92/117/177043240.jpg"
+      },
+      {
+        "url": "http://img1.wsimg.com/isteam/stock/18539"
+      },
+      {
+        "url": "https://img.aws.livestrongcdn.com/ls-hp-1920-image/ds-photo/getty/article/92/117/177043240.jpg"
+      },
+      {
+        "url": "http://beyond2000.com.au/wp-content/uploads/2018/04/photo.jpg"
+      },
+      {
+        "url": "https://roshanedmonton.co.uk/assets/images/data/about.jpg"
+      },
+      {
+        "url": "https://d2kmm3vx031a1h.cloudfront.net/rHzgsLERI6Ga77xivNcJ_istock_000019639558_medium.jpg"
+      },
+      {
+        "url": "https://content3.jdmagicbox.com/comp/haridwar/u7/9999p1334.1334.171017195603.t8u7/catalogue/om-dhaba-and-caterers-sabse-acha-sabse-sasta--shivalik-nagar-haridwar-restaurants-xuwb9.jpg"
+      },
+      {
+        "url": "http://transitionsfv.org/wp-content/uploads/50-famous-indian-food-dishes-how-many-have-you-tried-lively-images.jpg"
+      },
+      {
+        "url": "https://www.hobbsparker.co.uk/wp-content/uploads/Indian.jpg"
+      },
+      {
+        "url": "https://i0.wp.com/conversationsinthesunroom.com/wp-content/uploads/2018/04/Indian-Food-1.jpg?fit=1696%2C1132"
+      },
+      {
+        "url": "https://assets.restodata.ca/sites/r10537/bg_image2.jpg"
+      },
+      {
+        "url": "https://www.srishairam.com/ressources/images/0bff0578ab4e.jpg"
+      },
+      {
+        "url": "https://img.playbuzz.com/image/upload/v1521653645/b0w2s2zlbmdftwl0mlnp.jpg"
+      },
+      {
+        "url": "https://d1blyo8czty997.cloudfront.net/tour-course/n/6796/980x980/9374588961.jpg"
+      },
+      {
+        "url": "https://d1725r39asqzt3.cloudfront.net/3b03eb0a-b1d0-4bbe-802d-85e325a4e079/orig.jpg"
+      },
+      {
+        "url": "https://www.sgcookinglessons.com/wp-content/uploads/2016/06/1b.jpg"
+      },
+      {
+        "url": "https://www.reformetasante.com/wp-content/uploads/2018/06/img_1501.jpg"
+      },
+      {
+        "url": "http://qiniuimg.qingmang.mobi/image/orion/a4a90e81221c086cc1ea1b330a1299c0_1280_854.jpeg"
+      },
+      {
+        "url": "http://www.rangiorapromotions.co.nz/uploads/6/5/8/2/6582332/istock-000019639558-medium_orig.jpg"
+      },
+      {
+        "url": "https://www.skyscanner.co.kr/wp-content/uploads/2018/05/GettyImages-177043240.jpg?fit=1048,700"
+      },
+      {
+        "url": "https://yolo.style/wp-content/uploads/2017/02/iStock-177043240-1024x684.jpg"
+      },
+      {
+        "url": "http://www.cultureholidays.net/wp-content/uploads/2017/11/istock_000019639558_medium-1024x683.jpg"
+      },
+      {
+        "url": "https://www.currybliss.com/wp-content/uploads/2018/04/GQ1-1024x683.jpg"
+      },
+      {
+        "url": "http://msup1.ru/800/600/http/fb.ru/misc/i/gallery/72243/2481639.jpg"
+      },
+      {
+        "url": "http://www.bigapplecurry.com/wp-content/uploads/2013/01/istock_000019639558_medium-1024x683.jpg"
+      },
+      {
+        "url": "https://cdn.shopify.com/s/files/1/1923/8401/products/istock_000019639558_medium_8cecbc01-f0a9-4641-b214-34ac3c014610_1024x1024.jpg?v=1522021213"
+      },
+      {
+        "url": "https://palki.co.za/wp-content/uploads/revslider/slider-home/Fotolia_39241583_S-1.jpg"
+      },
+      {
+        "url": "http://www.agrodolce.it/wp-content/uploads/2014/10/shutterstock_97092413.jpg"
+      },
+      {
+        "url": "https://pbs.twimg.com/media/DbytdxxXcAYIn75.jpg"
+      },
+      {
+        "url": "https://img2.10bestmedia.com/Images/Photos/330902/ThinkstockPhotos-177043240_54_990x660.jpg"
+      },
+      {
+        "url": "http://kfyo.com/files/2016/05/Indian-food.jpg?w=980&amp;q=75"
+      },
+      {
+        "url": "https://lookaside.fbsbx.com/lookaside/crawler/media/?media_id=1593484367412335"
+      },
+      {
+        "url": "https://d1mvj2ulps5lli.cloudfront.net/venues/1024/90/27/hcmp90271_381137.jpeg"
+      },
+      {
+        "url": "https://lookaside.fbsbx.com/lookaside/crawler/media/?media_id=1636845303013087"
+      },
+      {
+        "url": "https://lookaside.fbsbx.com/lookaside/crawler/media/?media_id=1579129898805465"
+      },
+      {
+        "url": "https://ordermate.online/sites/openorder/files/styles/fb_og_style/public/2299638/images/frontends/istock_000019639558_medium_0.jpg?itok=GRCr7MnE"
+      },
+      {
+        "url": "https://www.kebabnkurry.us/wp-content/uploads/2018/06/bigstock-Indian-butter-chicken-curry-in-30888605.jpg"
+      },
+      {
+        "url": "http://www.fiddyfood.fr/public/shriganesh/images/home/3.png"
+      },
+      {
+        "url": "https://portal.restodata.ca/zyka/gallery/images/08_zykaa--478.jpg"
+      },
+      {
+        "url": "https://post-phinf.pstatic.net/MjAxODA1MTdfMzAw/MDAxNTI2NTIwMzMxMjcx.LedsVkW7scdaAFqn1-0HRJdUOJQClOJVhEq-MsU5l1gg.HUiGgAzzDJSz3fiMTL3EspOMIaa8Piq54_xvlKMBmsIg.JPEG/34.jpg?type=w1200"
+      },
+      {
+        "url": "https://media1.agfg.com.au/images/listing/57550/gallery//namasteindiancuisinejindabynensw004.jpg"
+      },
+      {
+        "url": "https://mtv.mtvnimages.com/uri/mgid:file:http:shared:mtv.com/news/wp-content/uploads/2015/03/177043240-1-1425590812.jpg?quality=.8&amp;height=534.4055140723722&amp;width=800"
+      },
+      {
+        "url": "https://www.awardwinningfood.uk/contentawtr/uploads/2018/06/1865_Champagne-Express-Redditch-2018.jpg"
+      },
+      {
+        "url": "https://www.ratedtakeaway.com/content-gfa/uploads/2018/05/1931_The-Viceroy-Restaurant.jpg"
+      },
+      {
+        "url": "https://static.vix.com/es/sites/default/files/styles/large/public/imj/imujer/R/Ruta-de-las-especias-4.jpg?itok=7-9IT0m9"
+      }
+    ],
+    "pagesWithMatchingImages": [
+      {
+        "url": "https://www.livestrong.com/article/275779-indian-vegetarian-foods-that-can-lower-blood-pressure/",
+        "pageTitle": "&lt;b&gt;Indian Vegetarian Foods&lt;/b&gt; That Can Lower Blood Pressure ...",
+        "partialMatchingImages": [
+          {
+            "url": "http://photos.demandstudios.com/getty/article/92/117/177043240.jpg"
+          },
+          {
+            "url": "https://img.aws.livestrongcdn.com/ls-hp-1920-image/ds-photo/getty/article/92/117/177043240.jpg"
+          },
+          {
+            "url": "https://img.aws.livestrongcdn.com/ls-article-image-673/ds-photo/getty/article/92/117/177043240.jpg"
+          }
+        ]
+      },
+      {
+        "url": "https://www.quora.com/What-are-some-good-places-to-order-daily-homemade-Indian-tiffins-lunch-or-dinner-in-the-Bay-Area",
+        "pageTitle": "What are some good places to order daily homemade &lt;b&gt;Indian&lt;/b&gt; tiffins ...",
+        "fullMatchingImages": [
+          {
+            "url": "https://qph.fs.quoracdn.net/main-qimg-04978da31481845571200e8bc557abc4"
+          }
+        ]
+      },
+      {
+        "url": "http://www.passagetoindianc.com/",
+        "pageTitle": "Passage to India Charlotte | Passage to India Restaurant",
+        "fullMatchingImages": [
+          {
+            "url": "http://www.passagetoindianc.com/wp-content/uploads/2018/04/home1.jpg"
+          }
+        ]
+      },
+      {
+        "url": "https://palki.co.za/",
+        "pageTitle": "Palki &lt;b&gt;Indian&lt;/b&gt; Restaurant | Palki",
+        "partialMatchingImages": [
+          {
+            "url": "https://palki.co.za/wp-content/uploads/revslider/slider-home/Fotolia_39241583_S-1.jpg"
+          }
+        ]
+      },
+      {
+        "url": "https://www.gumtree.com.au/s-catering/melbourne/home+cook/k0c18447l3001317",
+        "pageTitle": "home cook in Melbourne Region, VIC | Catering | Gumtree Australia ...",
+        "partialMatchingImages": [
+          {
+            "url": "https://i.ebayimg.com/00/s/MzEzWDQ3MA==/z/CgEAAOSwf-tauYID/$_35.JPG"
+          }
+        ]
+      },
+      {
+        "url": "https://www.istockphoto.com/photos/indian-food",
+        "pageTitle": "Royalty Free &lt;b&gt;Indian Food&lt;/b&gt; Pictures, Images and Stock Photos - iStock",
+        "fullMatchingImages": [
+          {
+            "url": "https://media.istockphoto.com/photos/indian-butter-chicken-curry-picture-id177043240?k=6&amp;m=177043240&amp;s=612x612&amp;w=0&amp;h=h9_Y07ppShzZCbbuJXHX2y_ob1v6rQNP7r8467VOhb0="
+          }
+        ]
+      },
+      {
+        "url": "https://www.bombaytandoor.com/",
+        "pageTitle": "Bombay Tandoor",
+        "fullMatchingImages": [
+          {
+            "url": "https://static1.squarespace.com/static/5898b3165016e1eeef6a4a3e/t/5955408f6a496315c7f926fe/1498759321971/BT+Butter+Chicken%2Cshutterstock_97092413.jpg?format=2500w"
+          }
+        ]
+      },
+      {
+        "url": "https://traveltips.usatoday.com/food-traditions-india-16344.html",
+        "pageTitle": "&lt;b&gt;Food&lt;/b&gt; Traditions in India | USA Today",
+        "partialMatchingImages": [
+          {
+            "url": "https://s3-us-west-1.amazonaws.com/contentlab.studiod/getty/370e6ff7dc9b46b5aa556ed353deb49d"
+          }
+        ]
+      },
+      {
+        "url": "https://medium.com/@maker.dhruvi/restaurant-in-surat-eb72e0e724fd",
+        "pageTitle": "Restaurant in Surat – Dhruvi Chauhan – Medium",
+        "fullMatchingImages": [
+          {
+            "url": "https://cdn-images-1.medium.com/max/1600/1*RIdG7Z2NUPZUZuv4nvZ5qQ.jpeg"
+          }
+        ]
+      },
+      {
+        "url": "http://www.bigapplecurry.com/2013/01/14/how-to-order-at-an-indian-restaurant-for-the-first-time/",
+        "pageTitle": "How to order at an &lt;b&gt;Indian&lt;/b&gt; restaurant | Big Apple Curry",
+        "partialMatchingImages": [
+          {
+            "url": "http://www.bigapplecurry.com/wp-content/uploads/2013/01/istock_000019639558_medium-1024x683.jpg"
+          }
+        ]
+      },
+      {
+        "url": "https://www.quora.com/Does-India-have-the-best-food-in-the-world",
+        "pageTitle": "Does India have the best &lt;b&gt;food&lt;/b&gt; in the world? - Quora",
+        "partialMatchingImages": [
+          {
+            "url": "https://qph.fs.quoracdn.net/main-qimg-27a580b56eeb96760521a19b96be8e7d"
+          }
+        ]
+      },
+      {
+        "url": "https://www.food24.com/Restaurants-and-Bars/Restaurant-Guides/23-indian-curry-spots-to-keep-things-fiery-this-winter-20170630",
+        "pageTitle": "23 &lt;b&gt;Indian&lt;/b&gt; curry spots to keep things fiery this Winter | Food24",
+        "fullMatchingImages": [
+          {
+            "url": "https://cdn.24.co.za/files/Cms/General/d/5516/9f27bfb00c8b455baced3376d0c86afb.jpg"
+          }
+        ]
+      },
+      {
+        "url": "https://www.delhibitesla.com/",
+        "pageTitle": "Delhi Bites",
+        "fullMatchingImages": [
+          {
+            "url": "https://static1.squarespace.com/static/59d1424f51a584ee6116dd6a/59d19290a8b2b058e9791db7/59d19bc449fc2b35c5bcaa48/1506909165636/istock_000019639558_medium.jpg"
+          },
+          {
+            "url": "https://static1.squarespace.com/static/59d1424f51a584ee6116dd6a/59d19290a8b2b058e9791db7/59d19bc449fc2b35c5bcaa48/1506909165636/istock_000019639558_medium.jpg?format=500w"
+          }
+        ]
+      },
+      {
+        "url": "https://www.tripadvisor.com/Restaurant_Review-g274887-d11793938-Reviews-Swaad_Indian_Restaurant-Budapest_Central_Hungary.html",
+        "pageTitle": "Swaad &lt;b&gt;Indian&lt;/b&gt; Restaurant, Budapest - Restaurant Reviews, Phone ...",
+        "fullMatchingImages": [
+          {
+            "url": "https://media-cdn.tripadvisor.com/media/photo-s/13/c1/6e/0d/varieties-of-dishes-served.jpg"
+          }
+        ]
+      },
+      {
+        "url": "https://www.bizquest.com/indian-restaurants-for-sale/",
+        "pageTitle": "&lt;b&gt;Indian&lt;/b&gt; Restaurants for Sale | Buy &lt;b&gt;Indian&lt;/b&gt; Restaurants at BizQuest",
+        "fullMatchingImages": [
+          {
+            "url": "https://www.bizquest.com/media/profitable-indian-restaurant-in-busy-plaza/sl_ls2_1375801.jpg"
+          }
+        ]
+      },
+      {
+        "url": "https://www.currybliss.com/indian-vegetarian-restaurant-richardson-tx/",
+        "pageTitle": "About Us - Curry Bliss &lt;b&gt;Indian Vegetarian&lt;/b&gt; Restaurant, Richardson, TX",
+        "partialMatchingImages": [
+          {
+            "url": "https://www.currybliss.com/wp-content/uploads/2018/04/GQ1-1024x683.jpg"
+          }
+        ]
+      },
+      {
+        "url": "https://www.thriveglobal.com/stories/31550-indian-food-considered-to-be-healthier-than-you-think",
+        "pageTitle": "&lt;b&gt;Indian Food&lt;/b&gt; considered to be healthier than you think | Thrive Global",
+        "fullMatchingImages": [
+          {
+            "url": "https://s3.amazonaws.com/skinner-production/stories/featured_images/000/031/550/large/indian_food.jpg?1526653840"
+          }
+        ]
+      },
+      {
+        "url": "https://postmates.com/merchant/wazman-indian-cuisine-emeryville",
+        "pageTitle": "Wazman &lt;b&gt;Indian&lt;/b&gt; Cuisine Delivery • Order Online • Emeryville (5959 ...",
+        "partialMatchingImages": [
+          {
+            "url": "https://d1725r39asqzt3.cloudfront.net/3b03eb0a-b1d0-4bbe-802d-85e325a4e079/orig.jpg"
+          }
+        ]
+      },
+      {
+        "url": "https://postmates.com/merchant/mehak-indian-cuisine-berkeley",
+        "pageTitle": "Mehak &lt;b&gt;Indian&lt;/b&gt; Cuisine Delivery • Order Online • Berkeley (2449 ...",
+        "partialMatchingImages": [
+          {
+            "url": "https://d1725r39asqzt3.cloudfront.net/3b03eb0a-b1d0-4bbe-802d-85e325a4e079/orig.jpg"
+          }
+        ]
+      },
+      {
+        "url": "https://www.tripadvisor.com/ShowUserReviews-g609161-d12898268-r538637578-Virsa_Indian_Restaurant-Warkworth_North_Island.html",
+        "pageTitle": "&lt;b&gt;Indian Food&lt;/b&gt; at its best! - Review of Virsa &lt;b&gt;Indian&lt;/b&gt; Restaurant ...",
+        "fullMatchingImages": [
+          {
+            "url": "https://media-cdn.tripadvisor.com/media/photo-s/11/75/77/2c/curry.jpg"
+          }
+        ]
+      },
+      {
+        "url": "https://ordermate.online/pakwanindianrestauran/",
+        "pageTitle": "Pakwan &lt;b&gt;Indian&lt;/b&gt; Restaurant — Menu",
+        "partialMatchingImages": [
+          {
+            "url": "https://ordermate.online/sites/openorder/files/styles/hero_image_sm/public/2299638/images/frontends/istock_000019639558_medium_0.jpg?itok=8NtycwaV"
+          },
+          {
+            "url": "https://ordermate.online/sites/openorder/files/styles/fb_og_style/public/2299638/images/frontends/istock_000019639558_medium_0.jpg?itok=GRCr7MnE"
+          }
+        ]
+      },
+      {
+        "url": "https://www.tripadvisor.co.nz/ShowUserReviews-g609161-d12898268-r538637578-Virsa_Indian_Restaurant-Warkworth_North_Island.html",
+        "pageTitle": "&lt;b&gt;Indian Food&lt;/b&gt; at its best! - Review of Virsa &lt;b&gt;Indian&lt;/b&gt; Restaurant ...",
+        "fullMatchingImages": [
+          {
+            "url": "https://media-cdn.tripadvisor.com/media/photo-s/11/75/77/2c/curry.jpg"
+          }
+        ]
+      },
+      {
+        "url": "https://royalindiabelgium.com/",
+        "pageTitle": "Royal India Restaurant – Real spices from mother&amp;#39;s kitchen",
+        "fullMatchingImages": [
+          {
+            "url": "https://royalindiabe.files.wordpress.com/2018/03/img-20180311-wa0039.jpg?w=1024"
+          }
+        ]
+      },
+      {
+        "url": "https://apnerasoi.ca/",
+        "pageTitle": "Apne Rasoi - &lt;b&gt;Indian&lt;/b&gt; Restaurant, &lt;b&gt;Indian Food&lt;/b&gt; and Catering",
+        "fullMatchingImages": [
+          {
+            "url": "http://img1.wsimg.com/isteam/stock/52fea22e3978bbd0ec2553942b31e486fa64ddbc23286f10993c0690bbd56b13"
+          }
+        ]
+      },
+      {
+        "url": "https://www.tripadvisor.co.uk/Restaurant_Review-g274887-d11793938-Reviews-Swaad_Indian_Restaurant-Budapest_Central_Hungary.html",
+        "pageTitle": "Swaad &lt;b&gt;Indian&lt;/b&gt; Restaurant, Budapest - Restaurant Reviews, Phone ...",
+        "fullMatchingImages": [
+          {
+            "url": "https://media-cdn.tripadvisor.com/media/photo-s/13/c1/6e/0d/varieties-of-dishes-served.jpg"
+          }
+        ]
+      },
+      {
+        "url": "https://t.justdial.com/Gandhinagar-Gujarat/Gurukrupa-Food-Zone-Near-Reliance-Cross-Road-,-Kudasan-,-Gandhinagar-Airport-Gandhinagar-Highway/9999PXX79-XX79-171013170145-Y5R2_BZDET",
+        "pageTitle": "Gurukrupa &lt;b&gt;Food&lt;/b&gt; Zone, Airport Gandhinagar Highway, Gandhinagar ...",
+        "fullMatchingImages": [
+          {
+            "url": "https://content3.jdmagicbox.com/comp/gandhinagar-gujarat/r2/9999pxx79.xx79.171013170145.y5r2/catalogue/gurukrupa-food-zone-airport-gandhinagar-highway-gandhinagar-gujarat-restaurants-fpbpoxab0s.jpg"
+          }
+        ]
+      },
+      {
+        "url": "https://www.yelp.com/biz/the-everest-kitchen-lake-forest-park",
+        "pageTitle": "The Everest Kitchen - Order &lt;b&gt;Food&lt;/b&gt; Online - 117 Photos &amp;amp; 199 ...",
+        "fullMatchingImages": [
+          {
+            "url": "https://s3-media3.fl.yelpcdn.com/bphoto/x3VryYsew_TcDvrK1ZXR8Q/o.jpg"
+          }
+        ]
+      },
+      {
+        "url": "https://www.skyscanner.co.in/news/restaurants/where-to-eat-in-lucknow-hear-it-from-the-lucknowites",
+        "pageTitle": "Best restaurants in Lucknow: Where are the locals eating ...",
+        "partialMatchingImages": [
+          {
+            "url": "https://www.skyscanner.co.in/wp-content/uploads/2018/05/GettyImages-177043240.jpg?fit=1048,700"
+          }
+        ]
+      },
+      {
+        "url": "https://www.lovefood.info/category/vegetarian-cuisine/",
+        "pageTitle": "&lt;b&gt;Vegetarian&lt;/b&gt; Cuisine – lovefood.info – &lt;b&gt;Food&lt;/b&gt; Lovers, Recipes ...",
+        "partialMatchingImages": [
+          {
+            "url": "https://www.lovefood.info/wp-content/uploads/2017/12/indiancuisine-420x280.jpeg"
+          }
+        ]
+      },
+      {
+        "url": "https://www.tasteofspice.co.uk/",
+        "pageTitle": "Taste Of Spice || &lt;b&gt;Indian&lt;/b&gt; Restaurant and Takeaway in Selkirk- Order ...",
+        "partialMatchingImages": [
+          {
+            "url": "https://www.tasteofspice.co.uk/assets/images/thumbs/balti-640x440.jpeg"
+          }
+        ]
+      },
+      {
+        "url": "https://indianflames.ca/",
+        "pageTitle": "&lt;b&gt;Indian&lt;/b&gt; Flames Inc.",
+        "partialMatchingImages": [
+          {
+            "url": "http://img1.wsimg.com/isteam/stock/18539"
+          }
+        ]
+      },
+      {
+        "url": "https://www.tripadvisor.com.au/ShowUserReviews-g609161-d12898268-r538637578-Virsa_Indian_Restaurant-Warkworth_North_Island.html",
+        "pageTitle": "&lt;b&gt;Indian Food&lt;/b&gt; at its best! - Virsa &lt;b&gt;Indian&lt;/b&gt; Restaurant, Warkworth ...",
+        "fullMatchingImages": [
+          {
+            "url": "https://media-cdn.tripadvisor.com/media/photo-s/11/75/77/2c/curry.jpg"
+          }
+        ]
+      },
+      {
+        "url": "https://www.tripadvisor.co.uk/Restaurant_Review-g186356-d2693601-Reviews-Chillis-Nottingham_Nottinghamshire_England.html",
+        "pageTitle": "Chillis, Nottingham - Restaurant Reviews, Phone Number &amp;amp; Photos ...",
+        "fullMatchingImages": [
+          {
+            "url": "https://media-cdn.tripadvisor.com/media/photo-s/07/23/a2/9e/chillis.jpg"
+          }
+        ]
+      },
+      {
+        "url": "https://www.theinternationalkitchen.com/program/highlights-of-india-cooking-holiday-indian-cooking-tours/",
+        "pageTitle": "Highlights of India Cooking Holiday | &lt;b&gt;Indian&lt;/b&gt; Cooking Tours - The ...",
+        "fullMatchingImages": [
+          {
+            "url": "https://v2mk946udb541j5bz40dqrd1-wpengine.netdna-ssl.com/wp-content/uploads/2017/12/TIK_IndiaVacations_dinner_horz.jpg"
+          }
+        ]
+      },
+      {
+        "url": "https://www.lovefood.info/",
+        "pageTitle": "lovefood.info – &lt;b&gt;Food&lt;/b&gt; Lovers, Recipes, Cooking Ideas, Cook Books ...",
+        "partialMatchingImages": [
+          {
+            "url": "https://www.lovefood.info/wp-content/uploads/2017/12/indiancuisine-420x280.jpeg"
+          }
+        ]
+      },
+      {
+        "url": "https://blog.cheapism.com/eat-out-with-diabetes-16339/",
+        "pageTitle": "19 Ways Diabetics Can Eat Out, From Fast &lt;b&gt;Food&lt;/b&gt; to Fine Dining ...",
+        "fullMatchingImages": [
+          {
+            "url": "https://cdn.cheapism.com/images/041217_eat_out_with_diabetes_slide_11_fs.max-784x410.jpg"
+          }
+        ]
+      },
+      {
+        "url": "https://royalindiatexas.com/",
+        "pageTitle": "Royal India of Corpus Christi: &lt;b&gt;Indian Food&lt;/b&gt;",
+        "partialMatchingImages": [
+          {
+            "url": "http://img1.wsimg.com/isteam/stock/18539"
+          }
+        ]
+      },
+      {
+        "url": "http://www.delhiloungedublin.com/",
+        "pageTitle": "Delhi Lounge - &lt;b&gt;Indian&lt;/b&gt; Restaurant - &lt;b&gt;Indian&lt;/b&gt; Takeaway - Rathfarnham ...",
+        "fullMatchingImages": [
+          {
+            "url": "http://www.delhiloungedublin.com/img/delhi-lounge-dublin-fb.jpg"
+          }
+        ]
+      },
+      {
+        "url": "https://www.tripadvisor.ie/Restaurant_Review-g186356-d2693601-Reviews-Chillis-Nottingham_Nottinghamshire_England.html",
+        "pageTitle": "Chillis, Nottingham - Restaurant Reviews, Phone Number &amp;amp; Photos ...",
+        "fullMatchingImages": [
+          {
+            "url": "https://media-cdn.tripadvisor.com/media/photo-s/07/23/a2/9e/chillis.jpg"
+          }
+        ]
+      },
+      {
+        "url": "http://www.indiangardenkirkwall.com/",
+        "pageTitle": "&lt;b&gt;INDIAN&lt;/b&gt; GARDEN",
+        "fullMatchingImages": [
+          {
+            "url": "http://www.indiangardenkirkwall.com/images/Special/MEAL%20FOR%204%20PERSON%202.jpg"
+          }
+        ]
+      },
+      {
+        "url": "https://bowlinggreen.takeoutwaiter.com/r/111/restaurants/delivery/Indian/Tandoori-King-BOWLING-GREEN",
+        "pageTitle": "Tandoori King - BOWLING GREEN | Delivery Menu",
+        "partialMatchingImages": [
+          {
+            "url": "https://bowlinggreen.takeoutwaiter.com/custom/indian.jpg"
+          }
+        ]
+      },
+      {
+        "url": "https://www.tripadvisor.co.za/ShowUserReviews-g609161-d12898268-r528643334-Virsa_Indian_Restaurant-Warkworth_North_Island.html",
+        "pageTitle": "What a place !!!! - Review of Virsa &lt;b&gt;Indian&lt;/b&gt; Restaurant, Warkworth ...",
+        "fullMatchingImages": [
+          {
+            "url": "https://media-cdn.tripadvisor.com/media/photo-s/11/75/77/2c/curry.jpg"
+          }
+        ]
+      },
+      {
+        "url": "https://www.tripadvisor.in/Restaurant_Review-g609161-d12898268-Reviews-Virsa_Indian_Restaurant-Warkworth_North_Island.html",
+        "pageTitle": "Virsa &lt;b&gt;Indian&lt;/b&gt; Restaurant, Warkworth - Restaurant Reviews, Phone ...",
+        "fullMatchingImages": [
+          {
+            "url": "https://media-cdn.tripadvisor.com/media/photo-s/11/75/77/2c/curry.jpg"
+          }
+        ]
+      },
+      {
+        "url": "https://www.justdial.com/Gandhinagar-gujarat/Bhagyoday-Restaurant-Near-R-World-Gandhinagar-Sector-21/9999PXX79-XX79-110320115917-D6X7_BZDET",
+        "pageTitle": "Bhagyoday Restaurant, Gandhinagar Sector 21, Gandhinagar ...",
+        "fullMatchingImages": [
+          {
+            "url": "https://content3.jdmagicbox.com/comp/gandhinagar-gujarat/x7/9999pxx79.xx79.110320115917.d6x7/catalogue/bhagyoday-restaurant-gandhinagar-gujarat-0cdvup1qxs.jpg"
+          }
+        ]
+      },
+      {
+        "url": "http://www.zyka.ca/?lang=en",
+        "pageTitle": "Zykaa - Mercier-Hochelaga-Maisonneuve, Montreal &lt;b&gt;Indian&lt;/b&gt; Cuisine ...",
+        "partialMatchingImages": [
+          {
+            "url": "https://assets.restodata.ca/sites/r10537/bg_image2.jpg"
+          },
+          {
+            "url": "https://portal.restodata.ca/zyka/gallery/images/08_zykaa--478.jpg"
+          }
+        ]
+      },
+      {
+        "url": "https://www.gumtree.com.au/s-nsw/rice+%26vegetables/k0l3008839",
+        "pageTitle": "rice &amp;amp;vegetables in New South Wales | Gumtree Australia Free ...",
+        "partialMatchingImages": [
+          {
+            "url": "https://i.ebayimg.com/00/s/MzEzWDQ3MA==/z/Pn4AAOSwdFla4Zgb/$_35.JPG"
+          }
+        ]
+      },
+      {
+        "url": "https://www.istockphoto.com/photos/indian-curry",
+        "pageTitle": "Royalty Free &lt;b&gt;Indian&lt;/b&gt; Curry Pictures, Images and Stock Photos - iStock",
+        "fullMatchingImages": [
+          {
+            "url": "https://media.istockphoto.com/photos/indian-butter-chicken-curry-picture-id177043240?k=6&amp;m=177043240&amp;s=612x612&amp;w=0&amp;h=h9_Y07ppShzZCbbuJXHX2y_ob1v6rQNP7r8467VOhb0="
+          }
+        ]
+      },
+      {
+        "url": "http://www.thatsmags.com/shanghai/post/22340/6-of-the-best-indian-restruarants-in-shanghai",
+        "pageTitle": "6 of the Best &lt;b&gt;Indian&lt;/b&gt; Curry Restaurants in Shanghai – That&amp;#39;s Shanghai",
+        "fullMatchingImages": [
+          {
+            "url": "http://www.thatsmags.com/image/view/201802/istock_000019639558_medium.jpg"
+          }
+        ]
+      },
+      {
+        "url": "https://tandoorinite.net/",
+        "pageTitle": "Tandoori Nite - &lt;b&gt;Indian Food&lt;/b&gt;, Restaurant",
+        "partialMatchingImages": [
+          {
+            "url": "http://img1.wsimg.com/isteam/stock/18539"
+          }
+        ]
+      },
+      {
+        "url": "http://www.mtv.com/news/2096664/indian-food-study/",
+        "pageTitle": "The Reason &lt;b&gt;Indian Food&lt;/b&gt; Makes You Wanna Get Your Nom On Is ...",
+        "partialMatchingImages": [
+          {
+            "url": "https://mtv.mtvnimages.com/uri/mgid:file:http:shared:mtv.com/news/wp-content/uploads/2015/03/177043240-1-1425590812.jpg?quality=.8&amp;height=534.4055140723722&amp;width=800"
+          }
+        ]
+      }
+    ],
+    "visuallySimilarImages": [
+      {
+        "url": "https://cdn.discoversg.com/wp-content/2018/01/swagat.jpg"
+      },
+      {
+        "url": "https://blog-cdn.feedspot.com/wp-content/uploads/2017/06/Indian-Food.jpg"
+      },
+      {
+        "url": "http://www.specialicious.com/images/dealimage/swagath_indian_food_home.jpg"
+      },
+      {
+        "url": "https://i2.wp.com/swatisani.net/kitchen/wp-content/uploads/2016/04/Collage_food.jpg?resize=575%2C262"
+      },
+      {
+        "url": "http://www.annemariehouse.org/wp-content/uploads/2014/11/udupi.jpg"
+      },
+      {
+        "url": "https://media-cdn.tripadvisor.com/media/photo-s/08/e4/cd/89/pure-vegetarian-indian.jpg"
+      },
+      {
+        "url": "http://www.lotusartichoke.com/wp-content/uploads/2012/10/navratanvegkorma_8588w_700.jpg"
+      },
+      {
+        "url": "https://leicesterveggie.files.wordpress.com/2014/11/img_0809.jpg"
+      }
+    ],
+    "bestGuessLabels": [
+      {
+        "label": "indian vegetarian food",
+        "languageCode": "en"
+      }
+    ]
+  }
+}
